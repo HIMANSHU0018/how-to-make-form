@@ -4,3 +4,20 @@
 ![Screenshot (25)](https://github.com/HIMANSHU0018/how-to-make-form/assets/128785945/353c2582-43d9-41f2-828b-09c954b66937)
 ![Screenshot (28)](https://github.com/HIMANSHU0018/how-to-make-form/assets/128785945/d2a47b5f-b434-49c3-b810-1a7276fff4b6)
 HOSTED LINK- https://himanshu0018.github.io/how-to-make-form/
+Form elements (input, label, select/option, textarea, fieldset, legend,)
+ Input types :
+- text 
+- number
+- button 
+- password 
+- checkbox
+- email
+- image 
+- date 
+- datetime-local 
+- time 
+- reset
+- button
+- submit
+- button
+  
